@@ -1,3 +1,4 @@
+```
 ├── Chain/  
 │   ├── Chain.py                  # Implements the Chain of LangChain for chaining various sub-tasks or questions in the multi-hop QA process.
 │   ├── tmp.db                    # Temporary SQLite database storing intermediate results during the chain execution.
@@ -53,3 +54,4 @@
 │   ├── table_to_sqlite.py        # Script for loading table data into an SQLite database for structured retrieval.
 │   ├── table_to_vector.py        # Script for converting tabular data into vector format for use in vector-based retrieval methods.
 │   ├── tmp.db                    # Temporary SQLite database used during table retrieval experiments.
+```
