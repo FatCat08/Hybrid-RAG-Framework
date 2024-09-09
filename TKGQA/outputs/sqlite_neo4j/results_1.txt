@@ -1,0 +1,6 @@
+The results of the method(Table:'sqlite',KG:'neo4j') are
+  q_nums:100
+  em:0.5
+  f1:0.753968253968254
+  acc:0.8333333333333334
+  hallucination:0.2916666666666667

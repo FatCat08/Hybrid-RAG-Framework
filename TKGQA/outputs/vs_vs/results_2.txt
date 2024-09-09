@@ -1,0 +1,6 @@
+The results of the method(Table:'vector stores',KG:'vector stores') are
+  q_nums:100
+  em:0.15
+  f1:0.2729505213096763
+  acc:0.39
+  hallucination:0.6355757575757576

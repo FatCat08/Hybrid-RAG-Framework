@@ -1,0 +1,6 @@
+The results of the method(Table:'dataframe',KG:'vector stores') are
+  q_nums:100
+  em:0.49
+  f1:0.5986691086691086
+  acc:0.66
+  hallucination:0.3533333333333333

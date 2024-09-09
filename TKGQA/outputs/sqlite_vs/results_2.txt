@@ -1,0 +1,6 @@
+The results of the method(Table:'sqlite',KG:'vector stores') are
+  q_nums:100
+  em:0.13
+  f1:0.2735716402038434
+  acc:0.4
+  hallucination:0.6330263157894737

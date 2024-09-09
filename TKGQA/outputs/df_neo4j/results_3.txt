@@ -1,0 +1,6 @@
+The results of the method(Table:'dataframe',KG:'neo4j') are
+  q_nums:100
+  em:0.5656565656565656
+  f1:0.6796942675730554
+  acc:0.7070707070707071
+  hallucination:0.2946127946127946

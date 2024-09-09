@@ -1,0 +1,6 @@
+The results of the method(Table:'vector stores',KG:'neo4j') are
+  q_nums:100
+  em:0.25
+  f1:0.4017500152324599
+  acc:0.53
+  hallucination:0.4873571428571428

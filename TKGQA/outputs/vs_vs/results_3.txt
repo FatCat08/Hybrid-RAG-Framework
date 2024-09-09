@@ -1,0 +1,18 @@
+The results of the method(Table:'vector stores',KG:'vector stores') are
+  q_nums:100
+  em:0.14
+  f1:0.24028515928515928
+  acc:0.33
+  hallucination:0.6838888888888889
+The results of the method(Table:'vector stores',KG:'vector stores') are
+  q_nums:100
+  em:0.4050632911392405
+  f1:0.5361176797885658
+  acc:0.6075949367088608
+  hallucination:0.40611814345991554
+The results of the method(Table:'vector stores',KG:'vector stores') are
+  q_nums:100
+  em:0.42
+  f1:0.5452948717948718
+  acc:0.61
+  hallucination:0.4016666666666667
